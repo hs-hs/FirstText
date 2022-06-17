@@ -8,3 +8,5 @@ for i in grood_list:
     print(i+",Welcome to School!")
 print("123测试")
 print("text1")
+print("text2")
+print("text3")
