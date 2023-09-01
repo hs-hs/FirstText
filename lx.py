@@ -7,7 +7,8 @@ grood_list = ["Andy","Tom"]
 for i in grood_list:
     print(i+",Welcome to School!")
 print("123测试")
-print("text1")
+print("text6")
 print("text2")
 print("text3")
 print("text4")
+print("text5")
